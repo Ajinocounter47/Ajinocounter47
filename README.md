@@ -10,7 +10,7 @@ I'm a software developer with a focus on the Python programming language. Here, 
 Description: This is a script made purely in Python that works to hack random Instagram accounts.
 Technologies Used: Python.
 Key Features: This script has very perfect features equipped with the best methods.
-Demo: You can see my project on https://github.com/Ajinocounter47/Premium.
+Demo: You can see my project on https://github.com/Ajinocounter47/InstaPremium.
 
 # Skills
 
