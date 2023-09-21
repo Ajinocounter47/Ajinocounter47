@@ -18,6 +18,12 @@ I'm a software developer with a focus on the Python programming language. Here, 
 - Key Features: The main feature of this script is to get a lot of followers.
 - Demo: You can see my project on https://github.com/Ajinocounter47/Qlizz-BetaVersion.git
 
+#### Project 3: THREADS HACKING
+- Description: This is a script made purely in Python that works to hack random Threads accounts.
+- Technologies Used: Python.
+- Key Features: This script has very perfect features equipped with the best methods.
+- Demo: You can see my project on https://github.com/Ajinocounter47/Threads-Main.git
+
 # Skills
 
 Programming Languages: Python
@@ -28,7 +34,8 @@ Utilizing Python's standard modules and libraries for common tasks.
 Handling exceptions and performing unit testing.
 Understanding of functional programming in Python.
 Using popular libraries such as NumPy, Pandas, and Matplotlib for data analysis and visualization.
-Version Control: Git
+
+# Version Control: Git
 Using Git for version control of code.
 Understanding of basic Git operations like commit, push, pull, and branching.
 Collaborating with a team using Git repositories.
