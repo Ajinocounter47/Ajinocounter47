@@ -7,10 +7,16 @@ I'm a software developer with a focus on the Python programming language. Here, 
 # Projects
 
 #### Project 1: INSTAGRAM HACKING
-Description: This is a script made purely in Python that works to hack random Instagram accounts.
-Technologies Used: Python.
-Key Features: This script has very perfect features equipped with the best methods.
-Demo: You can see my project on https://github.com/Ajinocounter47/InstaPremium.
+- Description: This is a script made purely in Python that works to hack random Instagram accounts.
+- Technologies Used: Python.
+- Key Features: This script has very perfect features equipped with the best methods.
+- Demo: You can see my project on https://github.com/Ajinocounter47/InstaPremium.
+
+#### Project 2: SOCIAL MEDIA AUTO FOLLOWERS
+- Description: This is a collection of scripts to get various likes, followers, comments on our social media accounts.
+- Technologies Used: Python.
+- Key Features: The main feature of this script is to get a lot of followers.
+- Demo: You can see my project on https://github.com/Ajinocounter47/Qlizz-BetaVersion.git
 
 # Skills
 
